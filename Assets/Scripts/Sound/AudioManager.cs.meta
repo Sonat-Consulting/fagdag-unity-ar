@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b4a20176005c47b4fbe7d6e74b076e4f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EngineMainThrust: {fileID: 11400000, guid: b3f03accaf6b7a04f906c7dc437a1648, type: 2}
+  - EngineSideThrust: {fileID: 11400000, guid: b3f03accaf6b7a04f906c7dc437a1648, type: 2}
+  - LaserType1: {fileID: 11400000, guid: 348a03c6e5b91ce46a7df041ef806137, type: 2}
+  - ImpactDamage1: {fileID: 11400000, guid: 184f8c96a1bb03a40b799d9e95dd8531, type: 2}
+  - ImpactDamage2: {instanceID: 0}
+  - ImpactDamage3: {instanceID: 0}
+  - PlayerDied1: {instanceID: 0}
+  - PlayerDied2: {instanceID: 0}
+  - PlayerDied3: {instanceID: 0}
+  - Pickup1: {instanceID: 0}
+  - Pickup2: {instanceID: 0}
+  - Pickup3: {instanceID: 0}
+  - GuiSelect1: {instanceID: 0}
+  - HelpTriggered: {instanceID: 0}
+  - HelpTriggered2: {instanceID: 0}
+  - Explosion1: {instanceID: 0}
+  - Explosion2: {instanceID: 0}
+  - Explosion3: {instanceID: 0}
+  - HelpTrigger: {fileID: 11400000, guid: a05f7e6fa30ff43b4a4b38700ffb0c69, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,8 @@
+* text=auto
+*.cs diff=csharp
+
+*.asset	-whitespace
+*.prefab -whitespace
+*.meta -whitespace
+*.unity -whitespace
+*.mat -whitespace
